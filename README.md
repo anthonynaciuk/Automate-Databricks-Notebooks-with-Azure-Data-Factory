@@ -4,7 +4,7 @@ You can use notebooks in Azure Databricks to perform data engineering tasks, suc
 
 This exercise should take approximately **40** minutes to complete.
 
-## Before you start
+## Before you start.
 
 You'll need an [Azure subscription](https://azure.microsoft.com/free) in which you have administrative-level access.
 
